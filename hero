@@ -1449,9 +1449,9 @@ footer {
     </div>
     <div class="sobre-text reveal">
       <div class="eyebrow">Sobre o clube</div>
-      <h2 class="section-heading">Um encontro de leitoras com vontade de ir além</h2>
+      <h2 class="section-heading">Um bando de leitoras que adora discordar (com muito carinho)</h2>
       <p>O Ordem & Leitura nasceu da vontade de criar um espaço onde bons livros e boas conversas se encontram — sem julgamento, sem protocolo, sem veto.</p>
-      <p>Todo mês, um livro. Todo encontro, uma discussão que começa na página e termina no mundo. Abertas a todas as perspectivas, a todos os gêneros literários, a todas as leitoras.</p>
+      <p>Todo mês, um livro. Todo encontro, uma discussão que começa na página e termina no mundo. Abertas a todas as perspectivas, a todos os gêneros literários.</p>
       <div class="sobre-pillars">
         <div class="pillar">
           <span class="pillar-icon">📖</span>
@@ -1461,7 +1461,7 @@ footer {
         <div class="pillar">
           <span class="pillar-icon">💬</span>
           <span class="pillar-name">Debate livre</span>
-          <span class="pillar-desc">Sem posição certa ou errada. Só ideias, vinho e boa companhia.</span>
+          <span class="pillar-desc">Sem posição certa ou errada. Só ideias,  café e boa companhia.</span>
         </div>
         <div class="pillar">
           <span class="pillar-icon">🌍</span>
@@ -1469,9 +1469,8 @@ footer {
           <span class="pillar-desc">Leitoras de todo lugar, com vivências que enriquecem cada discussão.</span>
         </div>
         <div class="pillar">
-          <span class="pillar-icon">🍷</span>
           <span class="pillar-name">Encontros presenciais</span>
-          <span class="pillar-desc">Uma vez por mês, em pessoa. O melhor jeito de terminar um bom livro.</span>
+          <span class="pillar-desc">Uma vez por mês, pessoalmente. O melhor jeito de terminar um bom livro.</span>
         </div>
       </div>
     </div>
@@ -1496,7 +1495,7 @@ footer {
     <div class="eyebrow">Sistema de escolha</div>
     <h2 class="section-heading">A Urna Literária</h2>
     <p style="font-size:13px;font-weight:300;color:#7A3050;line-height:1.8;max-width:560px;margin-bottom:2.5rem;">
-      Cada membra indica os livros que deseja ler. A sorte decide qual viaja com o grupo esse mês. Simples, justo e com um toque de drama.
+      Cada membra indica os livros que deseja ler. A sorte decide qual história leva o grupo para viajar esse mês. Simples, justo e com um toque de drama.
     </p>
 
     <div class="urna-tabs">
